@@ -7,3 +7,4 @@
 - ❤️ Extremely passionate about new technologies.
 - 👯 Building [Photomaker](https://github.com/ssttm169/photomaker) and more.
 - ⚡ Javascript / TypeScript / Python / Rust / Serverless and more.
+- 💰 Support my work on <a href="https://paypal.me/ssttm169" target="_blank">Paypal</a>, <a href="https://www.itomtan.com/posts/other/wechat-pay.jpeg" target="_blank">Wechat</a>, <a href="https://www.itomtan.com/posts/other/alipay.png" target="_blank">Alipay</a>
